@@ -1,0 +1,10 @@
+name: sample
+version: 1.0.0
+
+dependencies:
+- base >= 4.7 && < 5
+- extensible
+- rio
+
+library:
+  source-dirs: src
