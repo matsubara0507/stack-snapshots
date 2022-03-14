@@ -8,7 +8,7 @@ packages:
 - Only-0.1
 - QuickCheck-2.14.2
 - StateVar-1.2.2
-- aeson-2.0.2.0
+- aeson-2.0.3.0
 - assoc-1.0.2
 - async-2.2.4
 - attoparsec-0.14.2

@@ -33,12 +33,12 @@ packages:
   original:
     hackage: StateVar-1.2.2
 - completed:
-    hackage: aeson-2.0.2.0@sha256:5720fffb7289366029f2b7940e9f8b22a1b4c282f0cef4710685b1d14d76bdc7,6327
+    hackage: aeson-2.0.3.0@sha256:130bda8e10dc6dd159b79b306abb10025d7f8b5d9cbc2f7d6d7e6768a0272058,5845
     pantry-tree:
-      size: 37910
-      sha256: 6de8e70acd5ed455ac33d7496e8dbf994067f1f845dd420e7256623b2a8dee8b
+      size: 38191
+      sha256: bccfc5a7259a27aad7e4193f367c3d7d67799f42632fdcb90241c1e9fbb0cf40
   original:
-    hackage: aeson-2.0.2.0
+    hackage: aeson-2.0.3.0
 - completed:
     hackage: assoc-1.0.2@sha256:e0d9d1febc172e2a1b22aacd25df7f90be557dcf12ff87359f43128f8c194d9e,1237
     pantry-tree:
