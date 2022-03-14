@@ -6,6 +6,7 @@ dependencies:
 - extensible
 - rio
 - servant-server
+- yaml
 
 library:
   source-dirs: src

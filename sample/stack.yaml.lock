@@ -873,6 +873,48 @@ packages:
   original:
     hackage: zlib-0.6.2.3@sha256:262a93dbf370be59f4ee57f3b1a51b338bc2c309797daa37c14f2262ae61dae4,5329
 - completed:
+    hackage: yaml-0.11.8.0@sha256:049261f85bdcaf06e5298709edcfd0337fe706683b3631a81dc49aa4a18ba1a5,4936
+    pantry-tree:
+      size: 2044
+      sha256: 7f32163524a27865c85074a9e17011879e9e17ae342e0a35c0dd883df381fe2e
+  original:
+    hackage: yaml-0.11.8.0@sha256:049261f85bdcaf06e5298709edcfd0337fe706683b3631a81dc49aa4a18ba1a5,4936
+- completed:
+    hackage: conduit-1.3.4.2@sha256:92165c9fc22f4e8c75b936b8ed4739360e8318bec2a05cd2c8c5b293d126b477,5129
+    pantry-tree:
+      size: 1957
+      sha256: 8f5f18d84acb44440b7de5df4a02c2954a5c25c38b86268cdccb055ed4ee5e8b
+  original:
+    hackage: conduit-1.3.4.2@sha256:92165c9fc22f4e8c75b936b8ed4739360e8318bec2a05cd2c8c5b293d126b477,5129
+- completed:
+    hackage: libyaml-0.1.2@sha256:7f14f69ceb14659699974e8e47e1ea6f226ea21ff42a802db03e721c319d201d,2125
+    pantry-tree:
+      size: 1096
+      sha256: 7d03826965c52ffef8ce22179a1c0211e4cafb5f73f2a723169ef14b3677e262
+  original:
+    hackage: libyaml-0.1.2@sha256:7f14f69ceb14659699974e8e47e1ea6f226ea21ff42a802db03e721c319d201d,2125
+- completed:
+    hackage: mono-traversable-1.0.15.3@sha256:059bf3c05cdbef2d06b765333fe41c2168ced2503a23de674e2a59ceb2548c48,2060
+    pantry-tree:
+      size: 710
+      sha256: 20193844369b5e6e0ed2c0df9946db5bd65a6206e3cc9f7cf059523e27a818b8
+  original:
+    hackage: mono-traversable-1.0.15.3@sha256:059bf3c05cdbef2d06b765333fe41c2168ced2503a23de674e2a59ceb2548c48,2060
+- completed:
+    hackage: split-0.2.3.4@sha256:a6df9c3e806ee7cb50bc980a183fc1156f35022a39430dabac0bf9456fe18a4b,2647
+    pantry-tree:
+      size: 439
+      sha256: 4e7559f1be32a70cdbdb96d14db768561dd36b8fdff36b3ffac94751f5b5ae6d
+  original:
+    hackage: split-0.2.3.4@sha256:a6df9c3e806ee7cb50bc980a183fc1156f35022a39430dabac0bf9456fe18a4b,2647
+- completed:
+    hackage: vector-algorithms-0.8.0.4@sha256:bf4760b23a0fee09abb8c9e3c952c870f5dc9780876e9d7e38ab2bdd98c8f283,3752
+    pantry-tree:
+      size: 1439
+      sha256: 850a7481c87750751d87369690e3bacbdf986716b338ecadb3eeb1af5b192049
+  original:
+    hackage: vector-algorithms-0.8.0.4@sha256:bf4760b23a0fee09abb8c9e3c952c870f5dc9780876e9d7e38ab2bdd98c8f283,3752
+- completed:
     size: 399750
     subdir: servant
     url: https://github.com/haskell-servant/servant/archive/010e6a72af84267c5dde784ab1310cc2e0343de9.tar.gz
