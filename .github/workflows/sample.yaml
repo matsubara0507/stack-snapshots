@@ -8,11 +8,14 @@ on:
 
 jobs:
   build:
-    name: Execute each sample codes
-    runs-on: ubuntu-20.04
+    name: Execute each sample codes on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
     strategy:
+      fail-fast: false
       matrix:
+        os: [ubuntu-20.04, windows-2022]
         ghc: ["9.2.2"]
+
     steps:
     - uses: actions/checkout@v2
     - name: Cache .stack
