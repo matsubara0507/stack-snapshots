@@ -1,3 +1,10 @@
 resolver: ../snapshot.yaml
 packages:
 - .
+extra-deps:
+# - servant-server-0.19@sha256:4d54e998602264149b3df705a770811a15b18343c2b0a6b0e7d25d9282f93409,5691
+- github: haskell-servant/servant
+  commit: 010e6a72af84267c5dde784ab1310cc2e0343de9 # https://github.com/haskell-servant/servant/pull/1555
+  subdirs:
+  - servant
+  - servant-server
