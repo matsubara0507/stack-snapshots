@@ -172,5 +172,7 @@ packages:
 flags:
   cassava:
     bytestring--lt-0_10_4: false
+  mintty:
+    Win32-2-13-1: false
   transformers-compat:
     five-three: true
