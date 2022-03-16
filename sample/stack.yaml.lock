@@ -1097,6 +1097,27 @@ packages:
   original:
     hackage: zlib-0.6.2.3@sha256:262a93dbf370be59f4ee57f3b1a51b338bc2c309797daa37c14f2262ae61dae4,5329
 - completed:
+    hackage: conduit-extra-1.3.5@sha256:c3de6704df0b728d258827370b3de4e467a25d396037104639b859d743146365,4276
+    pantry-tree:
+      size: 2332
+      sha256: a4c8b9cbd79e40c71b6534b08fca3bd1609874cbb13324629baa2a6c23c16c2b
+  original:
+    hackage: conduit-extra-1.3.5@sha256:c3de6704df0b728d258827370b3de4e467a25d396037104639b859d743146365,4276
+- completed:
+    hackage: mintty-0.1.3@sha256:b2551509ddd32509162d496026a467f4a7fe60c399836473c8ac9b662d389114,3332
+    pantry-tree:
+      size: 525
+      sha256: 618407df0c46832e17069c5a4db54a7d22e2728db902379e66582841f6226e43
+  original:
+    hackage: mintty-0.1.3@sha256:b2551509ddd32509162d496026a467f4a7fe60c399836473c8ac9b662d389114,3332
+- completed:
+    hackage: safe-0.3.19@sha256:0910dafb8898f52bde4c646e560228a0fd08b1fca5457f222d2f5c0fad6d2039,2317
+    pantry-tree:
+      size: 564
+      sha256: 40010636c24cebf3f3e29e9b3b8e6c35f249f5e5d253925433140bb0b4e3f891
+  original:
+    hackage: safe-0.3.19@sha256:0910dafb8898f52bde4c646e560228a0fd08b1fca5457f222d2f5c0fad6d2039,2317
+- completed:
     size: 399750
     subdir: servant
     url: https://github.com/haskell-servant/servant/archive/010e6a72af84267c5dde784ab1310cc2e0343de9.tar.gz
